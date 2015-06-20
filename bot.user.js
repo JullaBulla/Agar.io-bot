@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        Er du en abe?
+// @namespace   Er du en abe?
 // @include     http://agar.io/
 // @version     3.05
 // @grant       none
